@@ -1,0 +1,19 @@
+{
+  "name": "speech2emotionconverter",
+  "version": "1.0.0",
+  "description": "speech to emotion converter",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MarwanELAdawy/Speech-to-Emotion-Converter.git"
+  },
+  "author": "Marwan ElAdawy",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MarwanELAdawy/Speech-to-Emotion-Converter/issues"
+  },
+  "homepage": "https://github.com/MarwanELAdawy/Speech-to-Emotion-Converter#readme"
+}
